@@ -1,0 +1,1466 @@
+[
+  {
+    "timestamp": "2025-07-22 10:05:14",
+    "signatures": 1619894
+  },
+  {
+    "timestamp": "2025-07-23 06:30:54",
+    "signatures": 1746662
+  },
+  {
+    "timestamp": "2025-07-24 06:30:55",
+    "signatures": 1854231
+  },
+  {
+    "timestamp": "2025-07-25 06:31:10",
+    "signatures": 1918159
+  },
+  {
+    "timestamp": "2025-07-26 06:28:21",
+    "signatures": 1953237
+  },
+  {
+    "timestamp": "2025-07-27 06:28:49",
+    "signatures": 1977922
+  },
+  {
+    "timestamp": "2025-07-28 06:32:52",
+    "signatures": 2002370
+  },
+  {
+    "timestamp": "2025-07-29 06:31:26",
+    "signatures": 2043048
+  },
+  {
+    "timestamp": "2025-07-30 06:32:40",
+    "signatures": 2057578
+  },
+  {
+    "timestamp": "2025-07-31 06:31:21",
+    "signatures": 2071948
+  },
+  {
+    "timestamp": "2025-08-01 06:32:27",
+    "signatures": 2085455
+  },
+  {
+    "timestamp": "2025-08-02 06:27:41",
+    "signatures": 2092899
+  },
+  {
+    "timestamp": "2025-08-03 06:27:47",
+    "signatures": 2097232
+  },
+  {
+    "timestamp": "2025-08-04 06:37:26",
+    "signatures": 2101261
+  },
+  {
+    "timestamp": "2025-08-05 06:32:53",
+    "signatures": 2105714
+  },
+  {
+    "timestamp": "2025-08-06 06:33:19",
+    "signatures": 2109388
+  },
+  {
+    "timestamp": "2025-08-07 06:32:43",
+    "signatures": 2113449
+  },
+  {
+    "timestamp": "2025-08-08 06:32:26",
+    "signatures": 2118129
+  },
+  {
+    "timestamp": "2025-08-09 06:28:04",
+    "signatures": 2120130
+  },
+  {
+    "timestamp": "2025-08-10 06:28:09",
+    "signatures": 2120978
+  },
+  {
+    "timestamp": "2025-08-11 06:32:15",
+    "signatures": 2121646
+  },
+  {
+    "timestamp": "2025-08-12 06:29:59",
+    "signatures": 2122457
+  },
+  {
+    "timestamp": "2025-08-13 06:29:58",
+    "signatures": 2123153
+  },
+  {
+    "timestamp": "2025-08-14 06:30:23",
+    "signatures": 2123661
+  },
+  {
+    "timestamp": "2025-08-15 06:29:39",
+    "signatures": 2124048
+  },
+  {
+    "timestamp": "2025-08-16 06:26:48",
+    "signatures": 2124346
+  },
+  {
+    "timestamp": "2025-08-17 06:27:38",
+    "signatures": 2124584
+  },
+  {
+    "timestamp": "2025-08-18 06:32:10",
+    "signatures": 2124794
+  },
+  {
+    "timestamp": "2025-08-19 06:28:58",
+    "signatures": 2125108
+  },
+  {
+    "timestamp": "2025-08-20 06:28:35",
+    "signatures": 2125403
+  },
+  {
+    "timestamp": "2025-08-21 06:37:31",
+    "signatures": 2125651
+  },
+  {
+    "timestamp": "2025-08-22 06:28:26",
+    "signatures": 2125851
+  },
+  {
+    "timestamp": "2025-08-23 06:25:00",
+    "signatures": 2125991
+  },
+  {
+    "timestamp": "2025-08-24 06:26:21",
+    "signatures": 2126108
+  },
+  {
+    "timestamp": "2025-08-25 06:30:13",
+    "signatures": 2126221
+  },
+  {
+    "timestamp": "2025-08-26 06:28:49",
+    "signatures": 2126403
+  },
+  {
+    "timestamp": "2025-08-27 06:26:58",
+    "signatures": 2126560
+  },
+  {
+    "timestamp": "2025-08-28 06:27:42",
+    "signatures": 2126707
+  },
+  {
+    "timestamp": "2025-08-29 06:27:01",
+    "signatures": 2126862
+  },
+  {
+    "timestamp": "2025-08-30 06:23:43",
+    "signatures": 2127023
+  },
+  {
+    "timestamp": "2025-08-31 06:24:54",
+    "signatures": 2127167
+  },
+  {
+    "timestamp": "2025-09-01 06:30:17",
+    "signatures": 2127348
+  },
+  {
+    "timestamp": "2025-09-02 06:28:09",
+    "signatures": 2127471
+  },
+  {
+    "timestamp": "2025-09-03 06:25:54",
+    "signatures": 2127594
+  },
+  {
+    "timestamp": "2025-09-04 06:26:38",
+    "signatures": 2127715
+  },
+  {
+    "timestamp": "2025-09-05 06:26:46",
+    "signatures": 2128544
+  },
+  {
+    "timestamp": "2025-09-06 06:23:31",
+    "signatures": 2128947
+  },
+  {
+    "timestamp": "2025-09-07 06:23:38",
+    "signatures": 2129079
+  },
+  {
+    "timestamp": "2025-09-08 06:28:40",
+    "signatures": 2129194
+  },
+  {
+    "timestamp": "2025-09-09 06:27:49",
+    "signatures": 2129329
+  },
+  {
+    "timestamp": "2025-09-10 06:26:51",
+    "signatures": 2129466
+  },
+  {
+    "timestamp": "2025-09-11 06:27:11",
+    "signatures": 2129568
+  },
+  {
+    "timestamp": "2025-09-12 06:26:57",
+    "signatures": 2129663
+  },
+  {
+    "timestamp": "2025-09-13 06:23:21",
+    "signatures": 2129712
+  },
+  {
+    "timestamp": "2025-09-14 06:23:54",
+    "signatures": 2129775
+  },
+  {
+    "timestamp": "2025-09-15 06:28:47",
+    "signatures": 2129833
+  },
+  {
+    "timestamp": "2025-09-16 06:27:29",
+    "signatures": 2129910
+  },
+  {
+    "timestamp": "2025-09-17 06:27:51",
+    "signatures": 2130000
+  },
+  {
+    "timestamp": "2025-09-18 06:26:53",
+    "signatures": 2130140
+  },
+  {
+    "timestamp": "2025-09-19 06:27:02",
+    "signatures": 2130226
+  },
+  {
+    "timestamp": "2025-09-20 06:24:21",
+    "signatures": 2130288
+  },
+  {
+    "timestamp": "2025-09-21 06:25:28",
+    "signatures": 2130344
+  },
+  {
+    "timestamp": "2025-09-22 06:28:51",
+    "signatures": 2130401
+  },
+  {
+    "timestamp": "2025-09-23 06:28:06",
+    "signatures": 2130475
+  },
+  {
+    "timestamp": "2025-09-24 06:27:31",
+    "signatures": 2130521
+  },
+  {
+    "timestamp": "2025-09-25 06:27:55",
+    "signatures": 2130564
+  },
+  {
+    "timestamp": "2025-09-26 06:27:05",
+    "signatures": 2130602
+  },
+  {
+    "timestamp": "2025-09-27 06:23:17",
+    "signatures": 2130634
+  },
+  {
+    "timestamp": "2025-09-28 06:25:11",
+    "signatures": 2130663
+  },
+  {
+    "timestamp": "2025-09-29 06:28:51",
+    "signatures": 2130682
+  },
+  {
+    "timestamp": "2025-09-30 06:28:10",
+    "signatures": 2130704
+  },
+  {
+    "timestamp": "2025-10-01 06:27:42",
+    "signatures": 2130727
+  },
+  {
+    "timestamp": "2025-10-02 06:26:53",
+    "signatures": 2130748
+  },
+  {
+    "timestamp": "2025-10-03 06:26:18",
+    "signatures": 2130767
+  },
+  {
+    "timestamp": "2025-10-04 06:24:09",
+    "signatures": 2130783
+  },
+  {
+    "timestamp": "2025-10-05 06:24:15",
+    "signatures": 2130803
+  },
+  {
+    "timestamp": "2025-10-06 06:28:08",
+    "signatures": 2130819
+  },
+  {
+    "timestamp": "2025-10-07 06:27:11",
+    "signatures": 2130846
+  },
+  {
+    "timestamp": "2025-10-08 06:27:49",
+    "signatures": 2130878
+  },
+  {
+    "timestamp": "2025-10-09 06:27:59",
+    "signatures": 2130889
+  },
+  {
+    "timestamp": "2025-10-10 06:27:45",
+    "signatures": 2130903
+  },
+  {
+    "timestamp": "2025-10-11 06:24:17",
+    "signatures": 2130911
+  },
+  {
+    "timestamp": "2025-10-12 06:24:34",
+    "signatures": 2130920
+  },
+  {
+    "timestamp": "2025-10-13 06:29:28",
+    "signatures": 2130934
+  },
+  {
+    "timestamp": "2025-10-14 06:27:30",
+    "signatures": 2130949
+  },
+  {
+    "timestamp": "2025-10-15 06:28:02",
+    "signatures": 2130961
+  },
+  {
+    "timestamp": "2025-10-16 06:27:36",
+    "signatures": 2130969
+  },
+  {
+    "timestamp": "2025-10-17 06:27:12",
+    "signatures": 2130977
+  },
+  {
+    "timestamp": "2025-10-18 06:25:05",
+    "signatures": 2130990
+  },
+  {
+    "timestamp": "2025-10-19 06:26:01",
+    "signatures": 2130997
+  },
+  {
+    "timestamp": "2025-10-20 06:28:52",
+    "signatures": 2131005
+  },
+  {
+    "timestamp": "2025-10-21 06:27:59",
+    "signatures": 2131019
+  },
+  {
+    "timestamp": "2025-10-22 06:28:54",
+    "signatures": 2131031
+  },
+  {
+    "timestamp": "2025-10-23 06:28:17",
+    "signatures": 2131047
+  },
+  {
+    "timestamp": "2025-10-24 06:27:23",
+    "signatures": 2131050
+  },
+  {
+    "timestamp": "2025-10-25 06:24:56",
+    "signatures": 2131062
+  },
+  {
+    "timestamp": "2025-10-26 06:26:07",
+    "signatures": 2131067
+  },
+  {
+    "timestamp": "2025-10-27 06:31:21",
+    "signatures": 2131071
+  },
+  {
+    "timestamp": "2025-10-28 06:29:16",
+    "signatures": 2131079
+  },
+  {
+    "timestamp": "2025-10-29 06:29:42",
+    "signatures": 2131082
+  },
+  {
+    "timestamp": "2025-10-30 06:28:07",
+    "signatures": 2131110
+  },
+  {
+    "timestamp": "2025-10-31 06:28:32",
+    "signatures": 2131121
+  },
+  {
+    "timestamp": "2025-11-01 06:25:28",
+    "signatures": 2131132
+  },
+  {
+    "timestamp": "2025-11-02 06:27:04",
+    "signatures": 2131144
+  },
+  {
+    "timestamp": "2025-11-03 06:30:09",
+    "signatures": 2131154
+  },
+  {
+    "timestamp": "2025-11-04 06:29:19",
+    "signatures": 2131160
+  },
+  {
+    "timestamp": "2025-11-05 06:28:54",
+    "signatures": 2131168
+  },
+  {
+    "timestamp": "2025-11-06 06:29:07",
+    "signatures": 2131186
+  },
+  {
+    "timestamp": "2025-11-07 06:28:50",
+    "signatures": 2131201
+  },
+  {
+    "timestamp": "2025-11-08 06:25:52",
+    "signatures": 2131209
+  },
+  {
+    "timestamp": "2025-11-09 06:26:17",
+    "signatures": 2131212
+  },
+  {
+    "timestamp": "2025-11-10 06:30:46",
+    "signatures": 2131219
+  },
+  {
+    "timestamp": "2025-11-11 06:29:17",
+    "signatures": 2131227
+  },
+  {
+    "timestamp": "2025-11-12 06:29:34",
+    "signatures": 2131236
+  },
+  {
+    "timestamp": "2025-11-13 06:29:24",
+    "signatures": 2131241
+  },
+  {
+    "timestamp": "2025-11-14 06:29:10",
+    "signatures": 2131248
+  },
+  {
+    "timestamp": "2025-11-15 06:26:36",
+    "signatures": 2131255
+  },
+  {
+    "timestamp": "2025-11-16 06:27:27",
+    "signatures": 2131262
+  },
+  {
+    "timestamp": "2025-11-17 06:30:14",
+    "signatures": 2131266
+  },
+  {
+    "timestamp": "2025-11-18 06:28:37",
+    "signatures": 2131273
+  },
+  {
+    "timestamp": "2025-11-19 06:29:12",
+    "signatures": 2131280
+  },
+  {
+    "timestamp": "2025-11-20 06:28:38",
+    "signatures": 2131285
+  },
+  {
+    "timestamp": "2025-11-21 06:30:08",
+    "signatures": 2131295
+  },
+  {
+    "timestamp": "2025-11-22 06:26:08",
+    "signatures": 2131302
+  },
+  {
+    "timestamp": "2025-11-23 06:27:33",
+    "signatures": 2131305
+  },
+  {
+    "timestamp": "2025-11-24 06:30:28",
+    "signatures": 2131309
+  },
+  {
+    "timestamp": "2025-11-25 06:31:05",
+    "signatures": 2131319
+  },
+  {
+    "timestamp": "2025-11-26 06:30:16",
+    "signatures": 2131327
+  },
+  {
+    "timestamp": "2025-11-27 06:31:11",
+    "signatures": 2131336
+  },
+  {
+    "timestamp": "2025-11-28 06:30:34",
+    "signatures": 2131343
+  },
+  {
+    "timestamp": "2025-11-29 06:27:57",
+    "signatures": 2131344
+  },
+  {
+    "timestamp": "2025-11-30 06:28:50",
+    "signatures": 2131345
+  },
+  {
+    "timestamp": "2025-12-01 06:32:41",
+    "signatures": 2131346
+  },
+  {
+    "timestamp": "2025-12-02 06:31:27",
+    "signatures": 2131353
+  },
+  {
+    "timestamp": "2025-12-03 06:31:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-04 06:31:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-05 06:31:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-06 06:27:31",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-07 06:27:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-08 06:33:50",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-09 06:31:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-10 06:32:15",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-11 06:33:20",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-12 06:32:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-13 06:29:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-14 06:29:01",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-15 06:34:34",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-16 06:32:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-17 06:31:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-18 06:32:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-19 06:31:09",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-20 06:30:01",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-21 06:29:34",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-22 06:34:16",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-23 06:33:12",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-24 06:33:13",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-25 06:32:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-26 06:31:55",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-27 06:30:27",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-28 06:30:38",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-29 06:34:30",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-30 06:32:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2025-12-31 06:33:15",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-01 06:33:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-02 06:32:37",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-03 06:30:35",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-04 06:30:44",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-05 06:38:19",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-06 06:34:11",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-07 06:33:26",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-08 06:33:46",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-09 06:33:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-10 06:29:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-11 06:31:22",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-12 06:36:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-13 06:33:34",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-14 06:33:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-15 06:33:13",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-16 06:33:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-17 06:30:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-18 06:30:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-19 06:38:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-20 06:35:49",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-21 06:35:55",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-22 06:34:52",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-23 06:34:20",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-24 06:31:07",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-25 06:31:16",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-26 06:36:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-27 06:35:00",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-28 06:35:57",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-29 06:46:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-30 06:49:23",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-01-31 06:38:34",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-01 06:48:26",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-02 07:01:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-03 06:51:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-04 06:52:13",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-06 06:54:08",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-07 06:40:36",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-08 06:49:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-09 07:03:35",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-10 07:03:17",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-11 07:00:00",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-12 07:00:22",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-13 06:59:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-14 06:43:23",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-15 06:51:52",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-16 07:02:23",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-17 06:58:29",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-18 07:00:49",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-19 06:59:35",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-20 06:55:53",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-21 06:40:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-22 06:47:03",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-23 07:03:37",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-24 06:59:37",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-25 07:01:33",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-26 06:59:19",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-27 06:53:40",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-02-28 06:38:00",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-01 06:45:04",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-02 06:57:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-03 06:51:50",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-04 06:46:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-05 06:52:15",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-06 06:48:48",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-07 06:39:58",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-08 06:41:39",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-09 07:01:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-10 06:50:18",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-11 06:53:22",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-12 06:55:05",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-13 06:53:29",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-14 06:44:03",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-15 06:56:03",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-16 07:16:32",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-17 07:03:25",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-18 07:01:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-19 06:57:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-20 06:54:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-21 06:42:05",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-22 06:51:31",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-23 07:09:25",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-24 07:03:31",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-25 07:01:39",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-26 07:08:08",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-27 07:06:31",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-28 06:58:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-29 07:02:25",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-30 07:26:54",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-03-31 07:13:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-01 07:19:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-02 07:11:51",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-03 07:07:48",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-04 07:00:19",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-05 07:05:40",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-06 07:42:28",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-07 07:16:16",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-08 07:18:39",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-09 07:21:33",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-10 07:26:33",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-11 07:00:17",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-12 07:13:23",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-13 08:02:28",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-14 07:44:49",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-15 07:44:40",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-16 07:45:16",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-17 07:45:44",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-18 07:06:54",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-19 07:18:35",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-20 08:05:59",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-21 07:49:04",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-22 07:46:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-23 07:51:40",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-24 08:02:50",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-25 07:15:12",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-26 07:27:53",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-27 08:23:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-28 08:24:05",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-29 08:16:50",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-04-30 08:21:05",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-01 08:10:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-02 07:42:54",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-03 08:00:18",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-04 08:28:22",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-05 08:08:16",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-06 08:25:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-07 08:32:31",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-08 07:40:44",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-09 07:55:35",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-10 08:06:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-11 09:37:53",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-12 08:38:29",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-13 08:42:57",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-14 08:36:20",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-15 08:47:52",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-16 08:02:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-17 08:20:08",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-18 10:01:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-19 09:40:19",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-20 09:31:58",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-21 09:38:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-22 09:21:36",
+    "signatures": null
+  },
+  {
+    "timestamp": "2026-05-23 08:19:01",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-24 08:28:04",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-25 10:03:55",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-26 09:54:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-27 09:44:00",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-28 09:59:30",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-29 09:52:53",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-30 08:26:44",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-05-31 08:43:46",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-01 11:32:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-02 10:21:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-03 10:57:13",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-04 09:54:24",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-05 09:48:07",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-06 08:32:02",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-07 08:54:28",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-08 10:52:28",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-09 09:41:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-10 09:58:10",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-11 10:22:17",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-12 10:11:32",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-13 08:56:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-14 09:32:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-15 12:11:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-16 11:08:38",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-17 10:53:37",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-18 10:19:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-19 10:24:28",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-20 08:54:17",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-21 09:48:57",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-22 11:52:21",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-23 09:37:06",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-24 09:27:49",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-25 09:19:42",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-26 09:24:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-27 08:34:41",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-28 08:50:00",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-29 10:57:22",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-06-30 09:33:23",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-01 09:43:05",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-02 08:54:33",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-03 09:16:08",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-04 08:34:58",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-05 08:50:43",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-06 10:18:47",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-07 09:38:52",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-08 08:25:45",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-09 09:36:53",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-10 09:32:46",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-11 07:53:48",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-12 08:15:09",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-13 09:24:14",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-14 08:02:13",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-15 08:07:40",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-16 08:11:02",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-17 08:07:54",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-18 07:47:26",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-19 08:14:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-20 08:55:49",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-21 08:26:19",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-22 08:26:56",
+    "signatures": 2131368
+  },
+  {
+    "timestamp": "2026-07-23 08:27:44",
+    "signatures": 2131368
+  }
+]
